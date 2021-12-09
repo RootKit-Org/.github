@@ -1,5 +1,5 @@
-![RootKit Logo](/IMG/RootKit_Clear.PNG#gh-light-mode-only)
-![RootKit Logo](/IMG/RootKit_White.PNG#gh-dark-mode-only)
+![RootKit Logo](IMG/RootKit_Clear.PNG#gh-light-mode-only)
+![RootKit Logo](IMG/RootKit_White.PNG#gh-dark-mode-only)
 
 ## Videos
 - Learner:
