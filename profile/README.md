@@ -1,4 +1,5 @@
-![RootKit Logo](https://learn.rootkit.education/pluginfile.php?file=%2F1%2Fcore_admin%2Flogocompact%2F0x70%2F1630952024%2FPNG%201.png)
+![RootKit Logo](/IMG/RootKit_Clear.PNG#gh-light-mode-only)
+![RootKit Logo](/IMG/RootKit_White.PNG#gh-dark-mode-only)
 
 ## Videos
 - Learner:
