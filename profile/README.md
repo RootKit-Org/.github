@@ -1,5 +1,4 @@
-![RootKit Logo](https://rootkit.education/wp-content/uploads/2021/12/RootKit_White.png#gh-light-mode-only)
-![RootKit Logo](https://rootkit.education/wp-content/uploads/2021/12/RootKit_Clear.png#gh-dark-mode-only)
+![RootKit Logo](https://rootkit.education/wp-content/uploads/2021/12/RootKit_White.png)
 
 ## Videos
 - Learner:
