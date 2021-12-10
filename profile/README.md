@@ -6,4 +6,4 @@ Our mission is to certify and educate the next generation of aspiring developers
 Have questions about <b>Quantum Computing, Machine Learning, High Performance Computing, Cyber Security, Video Game Bots, Volunteering, etc??!</b> <br /> Then join our Discord: https://discord.com/invite/YwMqW5P8ZN
 
 ### Hack-A-Thon Upcoming
-[Seal Challenge](https://github.com/RootKit-Org/seal-challenge)
+[Our Fate is Sealed!](https://rootkit.education/hack-a-thon/)
