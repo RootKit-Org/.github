@@ -6,7 +6,7 @@
 
 Have questions about <b>⚛️ Quantum Computing, 🤖 Machine Learning, 🖥️ HPC, 🔐 Cyber Security, Bots, Volunteering, etc??!</b>
 
-Then join our Discord: https://discord.com/invite/YwMqW5P8ZN
+Then join our Discord: https://discord.gg/rootkit
 
 ### Hack-A-Thon Upcoming
-[Our Fate is Sealed!](https://rootkit.education/hack-a-thon/)
+None
