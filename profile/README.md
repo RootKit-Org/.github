@@ -8,5 +8,8 @@ Have questions about <b>⚛️ Quantum Computing, 🤖 Machine Learning, 🖥️
 
 Then join our Discord: https://discord.gg/rootkit
 
+### Partners
+BitCrackers - https://github.com/BitCrackers
+
 ### Hack-A-Thon Upcoming
 None
