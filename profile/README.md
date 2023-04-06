@@ -9,4 +9,4 @@ Then join our Discord: https://discord.gg/rootkitorg
 BitCrackers - https://github.com/BitCrackers
 
 ### Hack-A-Thon Upcoming
-None
+May 12th - 9AM EST
